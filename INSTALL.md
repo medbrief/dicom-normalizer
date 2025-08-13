@@ -1,7 +1,3 @@
-
-## `INSTALL.md`
-
-````markdown
 # DICOM Normalization Script — Installation & Usage
 
 This repository contains a Python 3 script that normalizes DICOM files
@@ -135,6 +131,4 @@ gdcminfo "/tmp/orthanc-ready/somefile.dcm" | grep -i TransferSyntax
 
 * If `python-gdcm` fails to install, ensure your Python version is 3.9+ and you are on a supported architecture (macOS arm64 or x86\_64, Linux x86\_64).
 * If decompression fails for certain files, they may be corrupt or use a very rare transfer syntax. Check the script log for `status=FAIL`.
-
-```
 
