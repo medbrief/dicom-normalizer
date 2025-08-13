@@ -1,0 +1,7 @@
+pydicom>=3.0.0
+pylibjpeg>=2.0.0
+pylibjpeg-libjpeg>=2.3.0
+pylibjpeg-openjpeg>=2.4.0
+pylibjpeg-rle>=1.0.0
+python-gdcm>=3.0.26
+
