@@ -1,6 +1,4 @@
-## `README.md`
-
-# DICOM Normalization Script for Orthanc
+# DICOM Normalization Script for Orthanc and PACS systems
 
 This project provides a Python 3 utility to **normalize vendor-specific DICOM files** (e.g., GE Healthcare JPEG Lossless) into valid DICOM Part-10 files that are fully compatible with [Orthanc](https://www.orthanc-server.com/).
 
