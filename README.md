@@ -102,5 +102,3 @@ Rather than manually fixing them with DCMTK/GDCM commands, this script automates
 MIT — use at your own risk.
 Not affiliated with GE Healthcare or Orthanc.
 
-```
-
